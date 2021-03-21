@@ -1,1 +1,1 @@
-Repositórios de alguns programas em C
+Repositórios de alguns programas
